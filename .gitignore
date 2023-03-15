@@ -1,1 +1,9 @@
 .exercism/
+
+# Editor temp files
+*~
+.#*
+*#
+
+# Javascript
+node_modules/
